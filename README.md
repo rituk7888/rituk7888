@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/rituk7888/rituk7888/blob/main/Screenshot%20from%202023-02-19%2019-56-02.png)
 <h1 align="center">Hi 👋, I'm Ritu Redhu</h1>
-<h3 align="center">Software Developer with One Year of Experience.</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 
