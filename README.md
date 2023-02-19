@@ -2,7 +2,7 @@
 ![Logo](https://github.com/rituk7888/rituk7888/blob/main/Screenshot%20from%202023-02-19%2019-56-02.png)
 <h1 align="center">Hi 👋, I'm Ritu Redhu</h1>
 <h3 align="center">Software Developer with One Year of Experience.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rituk7888&label=Profile%20views&color=0e75b6&style=flat" alt="rituk7888" /> </p>
