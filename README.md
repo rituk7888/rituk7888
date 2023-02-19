@@ -1,6 +1,5 @@
 
-![Logo](https://https://github.com/rituk7888/rituk7888/blob/main/Screenshot%20from%202023-02-19%2019-56-02.png)
-
+![Logo](https://github.com/rituk7888/rituk7888/blob/main/Screenshot%20from%202023-02-19%2019-56-02.png)
 <h1 align="center">Hi 👋, I'm Ritu Redhu</h1>
 <h3 align="center">Software Developer with One Year of Experience.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
